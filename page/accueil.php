@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1 class="text-center text-warning p-4 font-weight-bold">Départ Matane 4 septembre</h1>
+            <h1 class="text-center text-warning font-weight-bold">Départ Matane 4 septembre</h1>
         </div>
     </div>
     <div class="text-center row justify-content-center">
