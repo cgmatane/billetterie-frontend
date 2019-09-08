@@ -2,10 +2,13 @@
     <div class="row">
         <div class="col-12">
             <h1 class="text-center text-warning p-4 font-weight-bold">Départ Matane 4 septembre</h1>
-
         </div>
     </div>
-    <div class="row">
-        <a href="index.php?page=page1">page 1</a>
+    <div class="text-center row rounded mx-auto d-block">
+        <div class="img-thumbnail col-6 bg-light pb-5">
+        <h4 class="text-center mt-3">Choississez votre destination</h4>
+        <button type="button" class="btn btn-success mt-5">Godbout</button><br>
+            <button type="button" class="btn btn-success mt-5">Baie-Comeau</button>
+        </div>
     </div>
 </div>
