@@ -4,8 +4,9 @@
             <h1 class="text-center text-warning p-4 font-weight-bold">Avez-vous une voiture ?</h1>
         </div>
     </div>
-    <div class="row">
-        <a class="text-center mx-auto"><button type="button" class="btn btn-success p-5 m-5">Success</button></a>
-        <a class="text-center mx-auto"><button type="button" class="btn btn-danger p-5 m-5">Success</button></a>
+    <div class="row text-center">
+        <a href="index.php?page=accueil" class="img-thumbnail col-5 mr-1 mx-auto pb-5 pt-5 display-4" style="height: 200px;">OUI</a>
+        <a href="index.php?page=accueil" class="img-thumbnail col-5 ml-1 mx-auto pb-5 pt-5 display-4"  style="height: 200px;">NON</a>
     </div>
 </div>
+
