@@ -1,15 +1,15 @@
 <nav class="bg-light">
     <div class="container">
         <header class="blog-header py-3">
-            <div class="row flex-nowrap justify-content-between align-items-center">
-                <div class="col-4 pt-1">
-                    <img src="resource/image/logo-stq.png"  >
+            <div class="row justify-content-between align-items-center">
+                <div class="col-sm-4 col-xs-12 pt-1">
+                    <img class="mx-auto" src="resource/image/logo-stq.png"  >
                 </div>
-                <div class="col-4 text-center">
-                    <h4 class=" text-dark text-dark">Traverse Matane Côte-Nord</h4>
+                <div class="col-sm-4 col-xs-12 text-center">
+                    <h3 class="text-center text-dark text-dark">Traverse Matane Côte-Nord</h3>
                 </div>
-                <div class="col-4 d-flex justify-content-end align-items-center text-dark ">
-                    <a class="btn btn-primary" href="index.php?page=information">Information</a>
+                <div class="col-sm-4 col-xs-12 d-flex justify-content-end align-items-center text-dark ">
+                    <a class="btn btn-primary mx-auto" href="index.php?page=information">Information</a>
                 </div>
             </div>
         </header>
