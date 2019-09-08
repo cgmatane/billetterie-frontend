@@ -22,4 +22,4 @@
     <title>Billetterie - STQ</title>
     <link rel="icon" href="resource/image/icon_bookshelf.svg" />
 </head>
-<body id="top">
+<body id="top" class="bg-info">
