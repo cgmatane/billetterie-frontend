@@ -14,6 +14,7 @@ if (isset($_GET['page']))
         case "reservation_choix_voiture": include('page/reservation_choix_voiture.php'); break;
         case "reservation_choix_remorque": include('page/reservation_choix_remorque.php'); break;
         case "reservation_poids": include('page/reservation_poids.php'); break;
+        case "reservation_passagers": include('page/reservation_passagers.php'); break;
         case "reservation_choix_autre_vehicule": include('page/reservation_choix_autre_vehicule.php'); break;
         case "reservation_matieres": include('page/reservation_matieres.php'); break;
         case "informations_matieres": include('page/informations_matieres.php'); break;
