@@ -12,6 +12,7 @@ if (isset($_GET['page']))
         case "informations_animaux": include('page/informations_animaux.php'); break;
         case "reservation_choix_vehicule": include('page/reservation_choix_vehicule.php'); break;
         case "reservation_choix_voiture": include('page/reservation_choix_voiture.php'); break;
+        case "reservation_choix_remorque": include('page/reservation_choix_remorque.php'); break;
         default: include('page/accueil.php');
     }
 }
