@@ -18,7 +18,7 @@
     </div>
 
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=page1"><button type="button" class="btn btn-danger m-4 p-5">
+        <a href="index.php"><button type="button" class="btn btn-danger m-4 p-5">
                 retour</button></a>
     </div>
 </div>
