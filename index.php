@@ -9,6 +9,7 @@ if (isset($_GET['page']))
     {
         case "page1": include('page/page1.php'); break;
         case "page2": include('page/page2.php'); break;
+        case "page3": include('page/page3.php'); break;
         default: include('page/accueil.php');
     }
 }

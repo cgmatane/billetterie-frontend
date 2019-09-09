@@ -16,4 +16,9 @@
         <a href="index.php?page=accueil" class="img-thumbnail mx-auto p-5 m-5">14h30</a>
         <a href="index.php?page=accueil" class="img-thumbnail mx-auto p-5 m-5">17h00</a>
     </div>
+
+    <div class="row text-center justify-content-center">
+        <a href="index.php?page=page1"><button type="button" class="btn btn-danger m-5 p-5">
+                retour</button></a>
+    </div>
 </div>
