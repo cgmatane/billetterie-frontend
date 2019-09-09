@@ -50,7 +50,7 @@
     <div class="row text-center justify-content-center">
         <a href="index.php?page=reservation_choix_horaire_depart"><button type="button" class="btn btn-danger m-4 p-5">
                 retour</button></a>
-        <a href="index.php?page=paiement"><button type="button" class="btn btn-success m-4 p-5">
+        <a href="index.php?page=reservation_paiement"><button type="button" class="btn btn-success m-4 p-5">
                 Procéder au paiement</button></a>
     </div>
 </div>
