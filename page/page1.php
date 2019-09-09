@@ -1,4 +1,4 @@
-<body id="top" class="bg-info">
+<body id="top" class="" style="background-color: #004882">
 <div class="container">
     <div class="row">
         <div class="col-12">
@@ -7,9 +7,9 @@
     </div>
     <div class="row text-center">
         <a href="index.php?page=page3" class="img-thumbnail col-5 mr-1 mx-auto pb-5 pt-5 display-4"
-           style="height: 200px;">OUI</a>
+           style="height: 200px; text-decoration:none;">OUI</a>
         <a href="index.php?page=page2" class="img-thumbnail col-5 ml-1 mx-auto pb-5 pt-5 display-4"
-           style="height: 200px;">NON</a>
+           style="height: 200px; text-decoration:none;">NON</a>
     </div>
 
     <div class="row text-center justify-content-center">

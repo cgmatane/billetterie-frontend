@@ -1,4 +1,4 @@
-<body id="top" class="bg-secondary">
+<body id="top" style="background-color: #d3d3d3">
 <div class="row">
     <div class="col-sm-12 col-xs-0">
         <img src="resource/image/avancement1.PNG" width="100%">
@@ -18,7 +18,7 @@
     </div>
 
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=page1"><button type="button" class="btn btn-danger m-5 p-5">
+        <a href="index.php?page=page1"><button type="button" class="btn btn-danger m-4 p-5">
                 retour</button></a>
     </div>
 </div>

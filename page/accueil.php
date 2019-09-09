@@ -1,4 +1,4 @@
-<body id="top" class="bg-info">
+<body id="top" style="background-color: #004882">
 <div class="container">
     <div class="row">
         <div class="col-12">
