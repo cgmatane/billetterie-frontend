@@ -33,7 +33,7 @@
                     <label for="numeroDeCarte">Numéro de carte :</label>
                 </div>
                 <div class="col-sm-7">
-                    <input type="number" class="form-control" id="numeroDeCarte" placeholder="1234 1234 1234 5678">
+                    <input type="text" class="form-control" id="numeroDeCarte" placeholder="1234 1234 1234 5678">
                 </div>
             </div>
             <div class="row">
