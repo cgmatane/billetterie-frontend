@@ -13,6 +13,6 @@
         </div>
     </div>
     <div class="row text-center justify-content-center">
-        <a><button type="button" class="btn btn-danger m-5 p-3" >Choisir une autre date</button></a>
+        <a href="index.php?page=choix_date"><button type="button" class="btn btn-danger m-5 p-3" >Choisir une autre date</button></a>
     </div>
 </div>
