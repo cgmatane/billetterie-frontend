@@ -7,25 +7,17 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1 class="text-center text-info font-weight-bold mt-4">Renseignez vos informations</h1>
+            <h1 class="text-center text-info font-weight-bold mt-4">Renseignez vos informations de paiement</h1>
         </div>
     </div>
     <div class="row text-center justify-content-center">
         <form>
             <div class="row">
                 <div class="col">
-                    <label for="nom">Nom :</label>
+                    <label for="nom">Nom et prénom:</label>
                 </div>
                 <div class="col-sm-7">
                     <input type="text" class="form-control" id="nom">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <label for="prenom">Prénom :</label>
-                </div>
-                <div class="col-sm-7">
-                    <input type="text" class="form-control" id="prenom">
                 </div>
             </div>
             <div class="row">
