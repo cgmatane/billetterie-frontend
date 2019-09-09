@@ -1,8 +1,7 @@
-<div class="container">
+<img src="resource/image/avancement1.PNG" width="100%">
+<div class="container-fluid">
     <div class="row">
         <div class="col-12">
-            <h1>Page 2</h1>
-            <a href="index.php?page=page1">Page 1</a>
         </div>
     </div>
 </div>
