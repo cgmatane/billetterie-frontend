@@ -11,10 +11,10 @@
         </div>
     </div>
     <div class="row text-center">
-        <a href="index.php?page=accueil" class="img-thumbnail mx-auto p-5 m-5">11h30</a>
-        <a href="index.php?page=accueil" class="img-thumbnail mx-auto p-5 m-5">13h00</a>
-        <a href="index.php?page=accueil" class="img-thumbnail mx-auto p-5 m-5">14h30</a>
-        <a href="index.php?page=accueil" class="img-thumbnail mx-auto p-5 m-5">17h00</a>
+        <a href="index.php?page=accueil" class="bg-white rounded-sm mx-auto p-5 m-5">11h30</a>
+        <a href="index.php?page=accueil" class="bg-white rounded-sm mx-auto p-5 m-5">13h00</a>
+        <a href="index.php?page=accueil" class="bg-white rounded-sm mx-auto p-5 m-5">14h30</a>
+        <a href="index.php?page=accueil" class="bg-white rounded-sm mx-auto p-5 m-5">17h00</a>
     </div>
 
     <div class="row text-center justify-content-center">
