@@ -13,6 +13,8 @@ if (isset($_GET['page']))
         case "reservation_choix_vehicule": include('page/reservation_choix_vehicule.php'); break;
         case "reservation_choix_voiture": include('page/reservation_choix_voiture.php'); break;
         case "reservation_choix_remorque": include('page/reservation_choix_remorque.php'); break;
+        case "reservation_poids": include('page/reservation_poids.php'); break;
+        case "reservation_choix_autre_vehicule": include('page/reservation_choix_autre_vehicule.php'); break;
         default: include('page/accueil.php');
     }
 }
