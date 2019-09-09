@@ -3,7 +3,9 @@
         <header class="blog-header py-3">
             <div class="row justify-content-between align-items-center">
                 <div class="col-sm-4 col-xs-12 pt-1">
-                    <img class="mx-auto" src="resource/image/logo-stq.png"  >
+                    <a href="index.php">
+                        <img class="mx-auto" src="resource/image/logo-stq.png" >
+                    </a>
                 </div>
                 <div class="col-sm-4 col-xs-12 text-center">
                     <h3 class="text-center text-dark text-dark">Traverse Matane Côte-Nord</h3>
