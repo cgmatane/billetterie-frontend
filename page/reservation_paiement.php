@@ -40,9 +40,9 @@
     </div>
 
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=reservation_passagers"><button type="button" class="btn btn-danger m-5 px-5 py-lg-5 py-xs-2">
-                Retour</button></a>
-        <a href="index.php?page=reservation_confirmation"><button type="button" class="btn btn-success m-5 px-5 py-lg-5 py-xs-2">
+        <a href="index.php?page=reservation_confirmation"><button type="button" class="btn btn-success mx-5 my-2 px-5 py-lg-5 py-xs-2">
                 Payer</button></a>
+        <a href="index.php?page=reservation_passagers"><button type="button" class="btn btn-danger mx-5 my-2 px-5 py-lg-5 py-xs-2">
+                Retour</button></a>
     </div>
 </div>

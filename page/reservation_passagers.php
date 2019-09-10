@@ -48,9 +48,9 @@
     </div>
 
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=reservation_choix_horaire_depart"><button type="button" class="btn btn-danger m-5 px-5 py-lg-5 py-xs-2">
-                Retour</button></a>
-        <a href="index.php?page=reservation_paiement"><button type="button" class="btn btn-success m-5 px-5 py-lg-5 py-xs-2">
+        <a href="index.php?page=reservation_paiement"><button type="button" class="btn btn-success mx-5 my-2 px-5 py-lg-5 py-xs-2">
                 Procéder au paiement</button></a>
+        <a href="index.php?page=reservation_choix_horaire_depart"><button type="button" class="btn btn-danger mx-5 my-2 px-5 py-lg-5 py-xs-2">
+                Retour</button></a>
     </div>
 </div>
