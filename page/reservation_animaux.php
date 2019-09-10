@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1 class="text-center text-warning p-4 font-weight-bold">Voyagez-vous avec au moins un animal d'une autre espèce que chien ou chat ?</h1>
+            <h4 class="text-center text-warning p-4 font-weight-bold">Voyagez-vous avec au moins un animal d'une autre espèce que chien ou chat ?</h4>
         </div>
     </div>
     <div class="row text-center">
@@ -14,8 +14,8 @@
     </div>
 
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=accueil"><button type="button" class="btn btn-danger m-5 p-5">
-                retour</button></a>
+        <a href="index.php?page=accueil"><button type="button" class="btn btn-danger m-5 px-5 py-lg-5 py-xs-2">
+                Retour</button></a>
     </div>
 </div>
 

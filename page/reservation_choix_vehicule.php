@@ -14,8 +14,8 @@
     </div>
 
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=reservation_animaux"><button type="button" class="btn btn-danger m-5 p-5">
-                retour</button></a>
+        <a href="index.php?page=reservation_animaux"><button type="button" class="btn btn-danger m-5 px-5 py-lg-5 py-xs-2">
+                Retour</button></a>
     </div>
 </div>
 
