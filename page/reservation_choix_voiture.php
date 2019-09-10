@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1 class="text-center text-warning p-4 font-weight-bold">Votre véhicule est une voiture ?</h1>
+            <h4 class="text-center text-warning p-4 font-weight-bold">Votre véhicule est une voiture ?</h4>
         </div>
     </div>
     <div class="row text-center">

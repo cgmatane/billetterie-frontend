@@ -7,7 +7,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1 class="text-center text-info font-weight-bold mt-4">Renseignez vos informations de paiement</h1>
+            <h4 class="text-center text-info font-weight-bold mt-4">Renseignez vos informations de paiement</h4>
         </div>
     </div>
     <div class="row text-center justify-content-center">
