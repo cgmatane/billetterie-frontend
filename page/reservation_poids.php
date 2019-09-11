@@ -14,7 +14,12 @@
     </div>
 
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=reservation_choix_vehicule"><button type="button" class="btn btn-danger m-5 px-5 py-lg-5 py-xs-2">
-                Retour</button></a>
+        <a href="index.php?page=reservation_choix_voiture"><button type="button" class="btn btn-warning mt-5 mb-5 px-5 py-lg-3 py-xs-2">
+                Retour au choix precedent </button></a>
+    </div>
+
+    <div class="row text-center justify-content-center">
+        <a href="index.php?page=accueil"><button type="button" class="btn btn-danger px-5 py-lg-3 py-xs-2">
+                Recommencer</button></a>
     </div>
 </div>
