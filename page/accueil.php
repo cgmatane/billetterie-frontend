@@ -13,10 +13,7 @@
         </div>
     </div>
     <div class="row text-center justify-content-center">
-        <a href="index.php?page=choix_date"><button type="button" class="btn btn-info m-5 p-3" >Choisir une autre date</button></a>
-    </div>
-
-    <div class="row text-center justify-content-center">
-        <a href="index.php?page=choix_depart"><button type="button" class="btn btn-info mb-5 p-3" >Choisir un autre départ</button></a>
+        <a href="index.php?page=choix_date"><button type="button" class="btn btn-info mt-5 mr-4 p-3" >Choisir une autre date</button></a>
+        <a href="index.php?page=choix_depart"><button type="button" class="btn btn-info mt-5 ml-4 p-3" >Choisir un autre départ</button></a>
     </div>
 </div>
