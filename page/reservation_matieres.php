@@ -9,7 +9,7 @@
         <a href="index.php?page=informations_matieres" class="bg-white rounded-sm col-5 ml-1 mx-auto pb-5 pt-5 display-4"
            style="height: 200px; text-decoration:none;">OUI</a>
 
-        <a href="index.php?page=reservation_choix_horaire_depart" class="bg-white rounded-sm col-5 ml-1 mx-auto pb-5 pt-5 display-4"
+        <a href="index.php?page=reservation_animaux" class="bg-white rounded-sm col-5 ml-1 mx-auto pb-5 pt-5 display-4"
            style="height: 200px; text-decoration:none;">NON</a>
     </div>
 
