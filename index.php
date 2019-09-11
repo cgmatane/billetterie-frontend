@@ -22,6 +22,7 @@ if (isset($_GET['page']))
         case "informations_matieres": include('page/informations_matieres.php'); break;
         case "informations": include('page/informations.php'); break;
         case "choix_date": include('page/choix_date.php'); break;
+        case "choix_depart": include('page/choix_depart.php'); break;
         default: include('page/accueil.php');
     }
 }
