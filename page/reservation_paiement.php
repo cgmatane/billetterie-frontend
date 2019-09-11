@@ -1,7 +1,7 @@
 <body id="top" style="background-color: #d3d3d3">
 <div class="row">
     <div class="col-sm-12 col-xs-0">
-        <img src="resource/image/avancement1.PNG" width="100%">
+        <img src="resource/image/avancement3.PNG" width="100%">
     </div>
 </div>
 <div class="container">
